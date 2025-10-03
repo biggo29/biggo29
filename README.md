@@ -39,7 +39,10 @@ I design and deliver enterprise-grade applications, scalable eCommerce platforms
 * 🔹 [Hackathon & Prototypes](https://github.com/biggo29/hackathon-projects)
   Experiments, prototypes and quick POCs (useful for showing rapid delivery).
 
+<<<<<<< HEAD
 *(If code is private, create sanitized demos or add screenshots + case study in each repo README.)*
+=======
+>>>>>>> 8fb7ff6feeacf271fe2e5845bc29025e236c2fca
 
 ---
 
@@ -66,5 +69,8 @@ I design and deliver enterprise-grade applications, scalable eCommerce platforms
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages\&logoColor=white\&style=for-the-badge)](https://biggo29.github.io)
 
 ---
+<<<<<<< HEAD
 
 ✨ *This README is a living document — update the Featured Projects with real repo links, replace contact links, and tweak wording to match your preferred tone.*
+=======
+>>>>>>> 8fb7ff6feeacf271fe2e5845bc29025e236c2fca
