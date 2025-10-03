@@ -42,13 +42,16 @@ Lead Software Engineer with 8+ years of experience designing and delivering ente
 ## ?? Featured Projects
 
 - **Enterprise eCommerce Platform (UK Market)**  
-Lead architect and developer for a high-traffic, event-driven eCommerce platform serving 15,000+ daily users and supporting over £1M in monthly sales. Delivered 30+ microservices with 99%+ test coverage, robust CI/CD, and 99.9% uptime. Led a team of 8 engineers, implemented CQRS, Clean Architecture, and Azure-based cloud infrastructure. (Company and client names confidential)
+Lead architect and developer for a high-traffic, event-driven eCommerce platform serving 15,000+ daily users and supporting over £1M in monthly sales. Delivered 30+ microservices with 99%+ test coverage, robust CI/CD, and 99.9% uptime. Led a team of 8 engineers, implemented CQRS, Clean Architecture, and Azure-based cloud infrastructure.  
+_Reference: [Live Platform](https://www.espares.co.uk/)_
 
 - **Central Biometric Verification Monitoring Platform (CBVMP) for BTRC**  
-WSIS Award-winning national e-Government solution for biometric SIM verification, integrating all telecom operators in Bangladesh. Enabled secure, real-time verification for 100M+ SIM holders, supporting 500 TPS and maintaining the longest zero downtime in the sector. Led Java/Oracle backend, real-time log monitoring (ELK), and system integration.
+WSIS Award-winning national e-Government solution for biometric SIM verification, integrating all telecom operators in Bangladesh. Enabled secure, real-time verification for 100M+ SIM holders, supporting 500 TPS and maintaining the longest zero downtime in the sector. Led Java/Oracle backend, real-time log monitoring (ELK), and system integration.  
+_Reference: [WSIS Prizes 2021 - CBVMP](https://www.itu.int/net4/wsis/stocktaking/Prizes/2021/DetailsPopup/15804722766144252)_
 
 - **e-TIN Solutions for National Board of Revenue (NBR)**  
-Designed and enhanced e-TIN registration and verification APIs for the National Board of Revenue, Bangladesh. Integrated with multiple government stakeholders to increase tax compliance and revenue. Developed using ASP.NET Core, SQL Server, and secure API best practices.
+Designed and enhanced e-TIN registration and verification APIs for the National Board of Revenue, Bangladesh. Integrated with multiple government stakeholders to increase tax compliance and revenue. Developed using ASP.NET Core, SQL Server, and secure API best practices.  
+_Reference: [NBR e-TIN Portal](https://secure.incometax.gov.bd/)_
 
 ---
 
