@@ -79,4 +79,17 @@ _Reference: [NBR e-TIN Portal](https://secure.incometax.gov.bd/)_
 
 ---
 
+# LinkedIn Snapshot
+
+**Shoaib Shahriar**  
+Lead Software Engineer | Architect | Cloud & Microservices Specialist  
+Dhaka, Bangladesh
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/biggo29)
+
+> 8+ years building scalable platforms, leading teams, and delivering award-winning solutions.  
+> Let’s connect for collaboration, mentoring, or tech discussions!
+
+---
+
 *This profile is a living document. Projects, links, and content are updated regularly to reflect my latest work and interests.*
