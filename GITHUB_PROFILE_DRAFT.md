@@ -76,6 +76,18 @@ _Reference: [NBR e-TIN Portal](https://secure.incometax.gov.bd/)_
 - [LinkedIn](https://linkedin.com/in/biggo29)
 - [Email](mailto:shoaibshahriar29@gmail.com)
 - [Portfolio](https://biggo29.github.io)
+- [Medium](https://medium.com/@biggo29)
+
+---
+
+# Medium Articles Snapshot
+
+Stay up to date with my latest technical articles and insights:
+
+- [From Curiosity to Career: Why I Chose to Become an IT Professional](https://medium.com/@biggo29/from-curiosity-to-career-why-i-chose-to-become-an-it-professional-0d17f60b9fa7)
+- [Validation of Google reCAPTCHA v2 Server Side (ASP.NET MVC)](https://medium.com/@biggo29/validation-of-google-recaptcha-v2-server-side-asp-net-mvc-9e4b493e1ff)
+
+> Explore more on my [Medium profile](https://medium.com/@biggo29)
 
 ---
 
