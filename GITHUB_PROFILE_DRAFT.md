@@ -41,9 +41,14 @@ Lead Software Engineer with 8+ years of experience designing and delivering ente
 
 ## ?? Featured Projects
 
-* [eCommerce Microservices Demo](https://github.com/biggo29/ecommerce-microservices-demo) — CQRS, event-driven patterns, and test coverage
-* [CV Parser](https://github.com/biggo29/cv-parser) — Resume/CV parser for talent automation
-* [Hackathon & Prototypes](https://github.com/biggo29/hackathon-projects) — Experiments, prototypes, and POCs
+- **Enterprise eCommerce Platform (UK Market)**  
+Lead architect and developer for a high-traffic, event-driven eCommerce platform serving 15,000+ daily users and supporting over £1M in monthly sales. Delivered 30+ microservices with 99%+ test coverage, robust CI/CD, and 99.9% uptime. Led a team of 8 engineers, implemented CQRS, Clean Architecture, and Azure-based cloud infrastructure. (Company and client names confidential)
+
+- **Central Biometric Verification Monitoring Platform (CBVMP) for BTRC**  
+WSIS Award-winning national e-Government solution for biometric SIM verification, integrating all telecom operators in Bangladesh. Enabled secure, real-time verification for 100M+ SIM holders, supporting 500 TPS and maintaining the longest zero downtime in the sector. Led Java/Oracle backend, real-time log monitoring (ELK), and system integration.
+
+- **e-TIN Solutions for National Board of Revenue (NBR)**  
+Designed and enhanced e-TIN registration and verification APIs for the National Board of Revenue, Bangladesh. Integrated with multiple government stakeholders to increase tax compliance and revenue. Developed using ASP.NET Core, SQL Server, and secure API best practices.
 
 ---
 
