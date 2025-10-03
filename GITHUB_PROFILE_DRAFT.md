@@ -1,4 +1,4 @@
-# ?? Hi, I’m Shoaib Shahriar
+# Hi, I’m Shoaib Shahriar
 
 **Lead Software Engineer | .NET | Microservices | Cloud | Architect**
 
@@ -8,13 +8,13 @@
 
 ---
 
-## ?? About Me
+# About Me
 
 Lead Software Engineer with 8+ years of experience designing and delivering enterprise-grade applications, scalable eCommerce platforms, and award-winning e-Government solutions. Specialized in clean architecture, test-driven development, CQRS, and event-driven microservices. Recognized for technical leadership, stakeholder alignment, and building high-performing teams.
 
 ---
 
-## ??? Tech Stack
+# Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
@@ -27,7 +27,7 @@ Lead Software Engineer with 8+ years of experience designing and delivering ente
 
 ---
 
-## ?? Highlights
+# Highlights
 
 - 8+ years in software engineering, specializing in .NET, microservices, and cloud solutions
 - Lead Software Engineer at EchoLogyx Ltd.
@@ -39,7 +39,7 @@ Lead Software Engineer with 8+ years of experience designing and delivering ente
 
 ---
 
-## ?? Featured Projects
+# Featured Projects
 
 - **Enterprise eCommerce Platform (UK Market)**  
 Lead architect and developer for a high-traffic, event-driven eCommerce platform serving 15,000+ daily users and supporting over £1M in monthly sales. Delivered 30+ microservices with 99%+ test coverage, robust CI/CD, and 99.9% uptime. Led a team of 8 engineers, implemented CQRS, Clean Architecture, and Azure-based cloud infrastructure.  
@@ -55,14 +55,14 @@ _Reference: [NBR e-TIN Portal](https://secure.incometax.gov.bd/)_
 
 ---
 
-## ?? GitHub Stats
+# GitHub Stats
 
 ![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=biggo29&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biggo29&layout=compact&theme=radical)
 
 ---
 
-## ?? What I Value
+# What I Value
 
 - High test coverage & reliable CI pipelines
 - Clean, maintainable architecture and clear documentation
@@ -71,7 +71,7 @@ _Reference: [NBR e-TIN Portal](https://secure.incometax.gov.bd/)_
 
 ---
 
-## ?? Connect with Me
+# Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/biggo29)
 - [Email](mailto:shoaibshahriar29@gmail.com)
